@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'Pantene'
+}
+item {
+  id: 2
+  name: 'Whisper'
+}
+item {
+  id: 3
+  name: 'Pampers'
+}
+item {
+  id: 4
+  name: 'Head_&_Shoulders'
+}
+item {
+  id: 5
+  name: 'Ariel'
+}
+item {
+  id: 6
+  name: 'Tide'
+}
