@@ -3,7 +3,7 @@
 # Problem Statement
 
 <p align="center">
-  <img src="imgs/ProblemStatement.png" height="420" width="520>
+  <img src="imgs/ProblemStatement.png" height="420" width="520">
 
 </p>
 
@@ -11,10 +11,12 @@
 # Architecture and Output
 
 <p align="center">
-  <img src="imgs/Architecture.png" height="420" width="520>
+  <img src="imgs/Architecture.png" height="420" width="520">
 </p>
 
-# Demo https://youtu.be/l8GDmGLfAfM 
+# Demo 
+
+https://youtu.be/l8GDmGLfAfM 
 
 # Installation
 
